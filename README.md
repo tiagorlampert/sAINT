@@ -84,7 +84,7 @@ $ java -jar sAINT.jar
   <img src="https://github.com/tiagorlampert/sAINT/blob/master/content/3.gif">
 </p>
 
-<h3 align="center">Run .JAR</h3>
+<h3 align="center">or Run .JAR</h3>
 
 <p align="center">
   <img src="https://github.com/tiagorlampert/sAINT/blob/master/content/4.gif">
