@@ -10,7 +10,7 @@
   <a href="https://github.com/tiagorlampert/sAINT/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/tiagorlampert/sAINT/blob/master/sAINT.go">
+  <a href="https://github.com/tiagorlampert/sAINT/tree/master/src_template/main/java/saint">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
     <a href="https://opensource.org">
