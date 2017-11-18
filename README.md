@@ -13,7 +13,7 @@
   <a href="https://github.com/tiagorlampert/sAINT/tree/master/src_template/main/java/saint">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://opensource.org">
+    <a href="https://opensource.org/licenses/BSD-3-Clause">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
