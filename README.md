@@ -72,6 +72,12 @@ $ java -jar sAINT.jar
   <p align="center"> <img src="https://github.com/tiagorlampert/sAINT/blob/master/content/2.gif"> </p>
 
 ## Run
+<h3 align="center">Install Java JRE 8</h3>
+
+<p align="center">
+  <img src="https://github.com/tiagorlampert/sAINT/blob/master/content/jre.gif">
+</p>
+
 <h3 align="center">Run .EXE</h3>
 
 <p align="center">
