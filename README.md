@@ -59,8 +59,9 @@ $ ./configure.sh
 # Run
 $ java -jar sAINT.jar
 ```
-
-***E-mail will be sent when it reaches the specified number of characters. Optionally you can enable Screenshot, Webcam Capture and Persistence.***
+## Note
+* On the machine that will be installed the spyware is required to have <a href="https://www.java.com/en/download/">Java JRE 8</a> installed.
+* E-mail will be sent when it reaches the specified number of characters. Optionally you can enable Screenshot, Webcam Capture and Persistence.
 
 ## Screenshot
   <h3 align="center"> Maven dependencies</h3>
