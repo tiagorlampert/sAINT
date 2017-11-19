@@ -53,7 +53,7 @@ $ git clone https://github.com/tiagorlampert/sAINT.git
 $ cd sAINT
 
 # Install and configure Maven libraries
-$ sudo chmod +x configure.sh
+$ chmod +x configure.sh
 $ ./configure.sh
 
 # Run
