@@ -64,6 +64,10 @@ $ java -jar sAINT.jar
 * E-mail will be sent when it reaches the specified number of characters.
 * Optionally you can enable Screenshot, Webcam Capture and Persistence.
 
+## FAQ
+> #### Why does the .EXE need java on target machine to run?
+> The JRE is required and the executable will not work without it. Because the Windows need JRE for translating the program from java byte code to machine language.
+
 ## Screenshot
   <h3 align="center"> Maven dependencies</h3>
   
