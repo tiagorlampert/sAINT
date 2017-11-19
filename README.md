@@ -60,7 +60,7 @@ $ ./configure.sh
 $ java -jar sAINT.jar
 ```
 ## Note
-* On Windows install the latest <a href="https://www.java.com/en/download/">Java JRE 8</a> from Oracle.
+* On Windows, install the latest <a href="https://www.java.com/en/download/">Java JRE 8</a> from Oracle.
 * E-mail will be sent when it reaches the specified number of characters.
 * Optionally you can enable Screenshot, Webcam Capture and Persistence.
 
