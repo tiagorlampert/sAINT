@@ -1,7 +1,7 @@
 :: Kill java process
 taskkill /f /im javaw.exe
 
-:: Delete (s)AINT folder
+:: Remove (s)AINT folder
 rmdir /s /q %appdata%\(s)AINT
 
 :: Delete entry registry
