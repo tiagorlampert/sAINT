@@ -44,7 +44,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 $ apt install maven default-jdk default-jre openjdk-8-jdk openjdk-8-jre -y
 
 # To generate a .EXE using launch4j are necessary the following packages
-$ apt install zlib1g-dev libncurses5-dev lib32z1 lib32ncurses5 -y
+$ apt install zlib1g-dev libncurses5-dev lib32z1 lib32ncurses6 -y
 
 # Clone this repository
 $ git clone https://github.com/tiagorlampert/sAINT.git
